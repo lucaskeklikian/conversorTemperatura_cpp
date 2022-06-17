@@ -1,2 +1,2 @@
 # conversorTemperatura_cpp
-Proyecto creado en QTcreator.
+Proyecto creado en QTcreator con UI.
